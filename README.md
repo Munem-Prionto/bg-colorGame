@@ -1,2 +1,2 @@
-# Changes background color (hex / rgb)
-## It also shows the values
+# Click to get different background colors
+## You can also get the color in RGB or Hex code
