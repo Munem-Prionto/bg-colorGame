@@ -60,6 +60,7 @@ section {
     border: none;
     color: white;
     background-color: #333;
+    
 }
 #btn:focus {
     outline: none;
